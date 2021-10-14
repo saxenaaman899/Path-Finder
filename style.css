@@ -1,0 +1,87 @@
+html,
+body {
+    height: 100%;
+    background-image: url('https://www.freepik.com/vectors/pattern');
+}
+
+
+#navbar{
+    font-size: 25px; 
+    font-family:'Patua One', cursive; 
+    background-color:#1F4A70;
+    height:18vh;
+    border-radius: 4px;
+    color: #7FB1DC;
+    text-align: center;
+
+}
+
+#heading{
+    color:#1F4A70;
+}
+
+#mynetwork {
+    width: 50%;
+    height: 100%;
+    border: 1px solid lightgray;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnN7UG3u9HjTM3swd3cJsZ9GV4nJIkhFFsfg&usqp=CAU");
+    background-position: center;
+    background-size: cover;
+}
+
+#container2 {
+    width: 50%;
+    height: 100%;
+    border: 1px solid lightgray;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnN7UG3u9HjTM3swd3cJsZ9GV4nJIkhFFsfg&usqp=CAU");
+    background-position: center;
+    background-size: cover;
+   
+}
+
+#mynetwork2{
+    width: 100%;
+    height: 100%;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnN7UG3u9HjTM3swd3cJsZ9GV4nJIkhFFsfg&usqp=CAU");
+    background-position: center;
+    background-size: cover;
+
+}
+
+#container{
+    border: 1px solid lightgray;
+    width: 100%;
+    height: 70%;
+    background-color: white;
+    display: flex;
+    margin: 0 auto;
+}
+
+#generate-graph{
+    margin:auto;
+    display:block;
+}
+
+
+#enter{
+    margin:auto;
+    display:block;
+}
+
+
+#websitename{
+    font-family: 'Patua One', cursive;
+    margin-right: auto;
+    font-size: 10vh;
+}
+
+
+#logo{
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: 3vw;
+    border: 2px solid #7FB1DC;
+}
